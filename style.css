@@ -1,0 +1,96 @@
+body {
+    background-image: url('S:/my works/DESIGN UX UI/HTML/exercice/background.png');
+}
+
+header {
+    position: relative;
+    background-color: #C55394;
+    height: 32px;
+    width: 100%;
+}
+
+.lien{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 15px;
+
+}
+
+.arc{
+    position:relative;
+    margin-top: -150px ; 
+    width: 500px; 
+    height:200px;
+
+    
+}
+
+
+li {
+    margin: 8px;
+    color: white;
+    list-style-type: none;
+
+}
+
+.contenu {
+    width: 75%;
+    height: 1300px;
+    padding: 20px;
+    border: 1px solid black;
+    border-color: black;
+    margin-top: 140px;
+    margin: auto;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px #555;
+    margin-bottom: 35px;
+    border-radius: 8px;
+
+}
+
+.titre {
+    margin-top: 102px;
+    text-align: center;
+}
+
+figure {
+    position: relative;
+    margin-left: 5px;
+    float: none;
+    border: 1px;
+    margin: 0.5em;
+    padding: 0.8em;
+    text-align: center;
+    transition: ease-in-out 0.5s;
+}
+figure:hover{
+    transform : scale(1.2);
+}
+
+figcaption {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.lic {
+    width: 220px;
+    height: 250px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+aside {
+    position: relative;
+    margin-left: 500px;
+    margin-bottom: 500px;
+    margin-right: 40px;
+    padding: 8px;
+}
+
+button{
+    background-color: #EB43A3;
+    border-radius: 8px;
+    border-bottom: 5px;
+}
